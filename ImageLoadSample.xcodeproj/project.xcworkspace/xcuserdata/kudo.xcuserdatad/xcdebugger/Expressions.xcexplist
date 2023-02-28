@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.imagePickerController(_:didFinishPickingMediaWithInfo:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "info[UIImagePickerController.InfoKey.mediaURL]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Wrapper jikko:]:test.m">
+      </ContextState>
+      <ContextState
+         contextName = "InfoViewController.viewDidLoad():InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent">
+            </PersistentString>
+            <PersistentString
+               value = "navigationController?.topViewController&#10;navigationController?.topViewController&#10;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UISlider.touchesBegan(_:with:):PictureControllViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Wrapper ImageParamSetting:imageInfo:]:test.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pImageData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EditControllerViewController.setScreen():EditControllerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "VerticalView.isHidden">
+            </PersistentString>
+            <PersistentString
+               value = "HorizonScrollView.isHidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PictureControllViewController.didDone(sender:selectedData:):PictureControllViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "colorProcessSelect">
+            </PersistentString>
+            <PersistentString
+               value = "colorProcessList[selectedRow]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Wrapper jikko:path:]:test.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CFBridgingRetain(filePath)">
+            </PersistentString>
+            <PersistentString
+               value = "&quot;pic_01_l.jpg&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "(void*)&quot;pic_01_l.jpg&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PickerViewKeyboard.donePicker():PictureControllViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pickerView.selectedRow(inComponent: 0)">
+            </PersistentString>
+            <PersistentString
+               value = "pickerView.selectedRow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.documentPicker(_:didPickDocumentsAt:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url.relativeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
